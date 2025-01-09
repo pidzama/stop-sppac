@@ -22,7 +22,7 @@
 title: STOP SP-PAC
 email: pidzama@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ta strona powstała w celu dokumentacji szkodliwej działalności samolotu SP-PAC.
+  Ta strona dokumentuje przeloty samolotu SP-PAC (należącego do SkyCamp).
 baseurl: "/stop-sppac" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
@@ -50,7 +50,7 @@ navigation:
       - name: Sierpień
         link: /stop-sppac/2024/2024-08/
   - name: O nas
-    link: /about/
+    link: /stop-sppac/about/
 
 include:
   - 2024
