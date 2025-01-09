@@ -5,6 +5,13 @@
 layout: default
 ---
 
-### Sekcja
-Tekst tekst
+### Cel
+Dlaczego to robimy
+### Jak zbieramy dane
+* Opis pobierania danych z FlightRadar24
+* Generowanie obrazów z przelotami z całego dnia
+* Wyliczanie czasu lotów
+### Przykład
+Opis
+
 ![/2024/2024-08/2024-08-30/map.jpg](/2024/2024-08/2024-08-30/map.jpg)

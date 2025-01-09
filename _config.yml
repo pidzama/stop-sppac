@@ -40,18 +40,17 @@ color-scheme: auto
 navigation:
   - name: Wstęp
     link: /stop-sppac/
-    sublist:
-      - name: Mapa lotów
-        link: ./index.html#small-image
   - name: 2024
     link: /stop-sppac/2024/
     sublist:
       - name: Czerwiec
         link: /stop-sppac/2024/2024-06/
       - name: Lipiec
-        link: /stop-sppac//2024/2024-07/
+        link: /stop-sppac/2024/2024-07/
       - name: Sierpień
         link: /stop-sppac/2024/2024-08/
+  - name: O nas
+    link: /about/
 
 include:
   - 2024
