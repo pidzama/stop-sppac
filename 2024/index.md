@@ -4,7 +4,8 @@ layout: default
 
 ## 2024
 
-_yay_
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+* [Czerwiec](./2024-06/)
+* [Lipiec](./2024-07/)
+* [Sierpień](./2024-08/)
 
-[back](./)
+[początek](./)

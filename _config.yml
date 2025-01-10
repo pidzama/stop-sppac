@@ -49,8 +49,8 @@ navigation:
         link: /stop-sppac/2024/2024-07/
       - name: Sierpień
         link: /stop-sppac/2024/2024-08/
-  - name: O nas
-    link: /stop-sppac/about/
+#  - name: O nas
+#    link: /stop-sppac/about/
 
 include:
   - 2024
