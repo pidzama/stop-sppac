@@ -4,6 +4,7 @@
 
 layout: default
 ---
+# STOP SP-PAC
 
 ### Cel
 Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od ponad dwóch lat generuje nadmierny hałas, zakłócając w ten sposób spokój mieszkańców. Gromadzimy tutaj dokumentację tych działań, korzystając z ogólnie dostępnych źródeł.
