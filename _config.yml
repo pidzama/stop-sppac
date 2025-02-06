@@ -43,12 +43,16 @@ navigation:
   - name: 2024
     link: /stop-sppac/2024/
     sublist:
+      - name: Maj
+        link: /stop-sppac/2024/2024-05/
       - name: Czerwiec
         link: /stop-sppac/2024/2024-06/
       - name: Lipiec
         link: /stop-sppac/2024/2024-07/
       - name: Sierpień
         link: /stop-sppac/2024/2024-08/
+      - name: Październik
+        link: /stop-sppac/2024/2024-10/
 #  - name: O nas
 #    link: /stop-sppac/about/
 

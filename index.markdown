@@ -17,9 +17,11 @@ Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od
 ### Zebrane dane
 
 * 2024
+  * [Maj](./2024/2024-05/)
   * [Czerwiec](./2024/2024-06/)
   * [Lipiec](./2024/2024-07/)
   * [Sierpień](./2024/2024-08/)
+  * [Październik](./2024/2024-10/)
 <br>
 <br>
 
@@ -27,3 +29,4 @@ Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od
 * *brak danych dla dni (kiedy samolot latał):*
   * *2024-07-20 (brak możliwości pobrania plików z FR24)*
   * *2024-08-30 (brak możliwości pobrania plików z FR24)*
+* brak lotów we wrześniu 2024 - impreza AgroShow na lotnisku
