@@ -3,8 +3,8 @@ layout: default
 ---
 # Październik 2024
 
-Liczba dni z lotami: 5<br>
-Suma czasów netto wszystkich lotów: 19 h 04 min<br>
+Liczba dni z lotami: 6<br>
+Suma czasów netto wszystkich lotów: 21 h 23 min<br>
 <br>
 
 
@@ -30,7 +30,6 @@ Ilość lotów: **10**
 |10|16:43:44|17:01:30|17|
 
 
-
 ### 2024-10-06 NIEDZIELA
 
 Loty w godzinach: 09:52:28 - 16:35:39, **6 h 43 min**  
@@ -50,6 +49,24 @@ Ilość lotów: **9**
 |7|14:21:15|14:39:36|18|
 |8|15:13:02|15:33:23|20|
 |9|16:09:25|16:35:26|26|
+
+
+### 2024-10-08 WTOREK
+
+Loty w godzinach: 08:02:27 - 17:54:42, **9 h 52 min**  
+Czas netto: **2 h 18 min**  
+Ilość lotów: **6**  
+
+![2024-10-08-mapka](./2024-10-08/map.jpg)
+
+|Lot|Od|Do|Czas [min]|
+|----:|--------:|--------:|--------:|
+|1|08:02:27|08:06:43|4|
+|2|11:22:13|11:48:42|26|
+|3|12:58:18|13:25:07|26|
+|4|14:29:34|14:55:18|25|
+|5|15:53:58|16:20:45|26|
+|6|17:26:00|17:54:35|28|
 
 
 ### 2024-10-12 SOBOTA
