@@ -30,7 +30,7 @@ hide_project_page: true
 hide_project_footer: true
 # Build settings
 ##theme: minima
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+remote_theme: pidzama/jekyll-theme-minimalistic
 
 plugins:
   - jekyll-feed
