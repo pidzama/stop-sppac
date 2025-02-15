@@ -23,7 +23,7 @@ title: STOP SP-PAC
 email: pidzama@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ta strona dokumentuje przeloty samolotu SP-PAC (należącego do SkyCamp).
-baseurl: "/stop-sppac" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  pidzama
@@ -39,22 +39,22 @@ color-scheme: auto
 
 navigation:
   - name: Wstęp
-    link: /stop-sppac/
+    link: /
   - name: 2024
-    link: /stop-sppac/2024/
+    link: /2024/
     sublist:
       - name: Maj
-        link: /stop-sppac/2024/2024-05/
+        link: /2024/2024-05/
       - name: Czerwiec
-        link: /stop-sppac/2024/2024-06/
+        link: /2024/2024-06/
       - name: Lipiec
-        link: /stop-sppac/2024/2024-07/
+        link: /2024/2024-07/
       - name: Sierpień
-        link: /stop-sppac/2024/2024-08/
+        link: /2024/2024-08/
       - name: Październik
-        link: /stop-sppac/2024/2024-10/
+        link: /2024/2024-10/
 #  - name: O nas
-#    link: /stop-sppac/about/
+#    link: /about/
 
 include:
   - 2024
