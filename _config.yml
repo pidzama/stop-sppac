@@ -20,15 +20,14 @@
 
 
 title: STOP SP-PAC
-email: pidzama@gmail.com
+email: stop.sppac@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ta strona dokumentuje przeloty samolotu SP-PAC (należącego do SkyCamp).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  pidzama
 google_analytics: "G-J2NDGPS6C2"
-
+hide_project_page: true
+hide_project_footer: true
 # Build settings
 ##theme: minima
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
