@@ -12,7 +12,7 @@ Suma czasów netto wszystkich lotów: 21 h 23 min<br>
 
 Loty w godzinach: 08:44:53 - 17:01:43, **8 h 16 min**  
 Czas netto: **2 h 58 min**  
-Ilość lotów: **10**  
+Liczba lotów: **10**  
 
 ![2024-10-05-mapka](./2024-10-05/map.jpg)
 
@@ -34,7 +34,7 @@ Ilość lotów: **10**
 
 Loty w godzinach: 09:52:28 - 16:35:39, **6 h 43 min**  
 Czas netto: **2 h 45 min**  
-Ilość lotów: **9**  
+Liczba lotów: **9**  
 
 ![2024-10-06-mapka](./2024-10-06/map.jpg)
 
@@ -55,7 +55,7 @@ Ilość lotów: **9**
 
 Loty w godzinach: 08:02:27 - 17:54:42, **9 h 52 min**  
 Czas netto: **2 h 18 min**  
-Ilość lotów: **6**  
+Liczba lotów: **6**  
 
 ![2024-10-08-mapka](./2024-10-08/map.jpg)
 
@@ -73,7 +73,7 @@ Ilość lotów: **6**
 
 Loty w godzinach: 08:48:26 - 18:13:19, **9 h 24 min**  
 Czas netto: **5 h 39 min**  
-Ilość lotów: **18**  
+Liczba lotów: **18**  
 
 ![2024-10-12-mapka](./2024-10-12/map.jpg)
 
@@ -103,7 +103,7 @@ Ilość lotów: **18**
 
 Loty w godzinach: 09:24:36 - 17:33:33, **8 h 8 min**  
 Czas netto: **4 h 1 min**  
-Ilość lotów: **11**  
+Liczba lotów: **11**  
 
 ![2024-10-19-mapka](./2024-10-19/map.jpg)
 
@@ -126,7 +126,7 @@ Ilość lotów: **11**
 
 Loty w godzinach: 09:21:28 - 17:13:48, **7 h 52 min**  
 Czas netto: **3 h 39 min**  
-Ilość lotów: **10**  
+Liczba lotów: **10**  
 
 ![2024-10-20-mapka](./2024-10-20/map.jpg)
 
