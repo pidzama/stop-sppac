@@ -40,6 +40,11 @@ color-scheme: auto
 navigation:
   - name: Wstęp
     link: /
+  - name: 2025
+    link: /2025/
+    sublist:
+      - name: Kwiecień
+        link: /2025/2025-04/
   - name: 2024
     link: /2024/
     sublist:

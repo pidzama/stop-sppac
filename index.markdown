@@ -5,6 +5,7 @@
 layout: default
 ---
 # STOP SP-PAC
+[Najnowsze loty](./2025/2025-04/)
 
 ### Cel
 Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od ponad dwóch lat generuje nadmierny hałas, zakłócając w ten sposób spokój mieszkańców. Gromadzimy tutaj dokumentację tych działań, korzystając z ogólnie dostępnych źródeł.
@@ -12,6 +13,8 @@ Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od
 ### Loty SP-PAC w Bednarach (EPPB)
 Kliknij w miesiąc poniżej aby przejść do danych.
 
+* Rok 2025
+  * [Kwiecień](./2025/2025-04/)
 * Rok 2024
   * [Maj](./2024/2024-05/)
   * [Czerwiec](./2024/2024-06/)
