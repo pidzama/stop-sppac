@@ -45,6 +45,8 @@ navigation:
     sublist:
       - name: Kwiecień
         link: /2025/2025-04/
+      - name: Maj
+        link: /2025/2025-05/
   - name: 2024
     link: /2024/
     sublist:
