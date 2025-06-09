@@ -47,6 +47,8 @@ navigation:
         link: /2025/2025-04/
       - name: Maj
         link: /2025/2025-05/
+      - name: Czerwiec
+        link: /2025/2025-06/
   - name: 2024
     link: /2024/
     sublist:
@@ -65,6 +67,7 @@ navigation:
 
 include:
   - 2024
+  - 2025
 
 # Exclude from processing.
 # The following items will not be processed, by default.
