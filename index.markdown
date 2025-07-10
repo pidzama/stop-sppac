@@ -5,24 +5,22 @@
 layout: default
 ---
 # STOP SP-PAC
-[Najnowsze loty](./2025/2025-06/)
-
-### Cel
-Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od ponad dwóch lat generuje nadmierny hałas, zakłócając w ten sposób spokój mieszkańców. Gromadzimy tutaj dokumentację tych działań, korzystając z ogólnie dostępnych źródeł.
+[Najnowsze loty](./2025/2025-07/)
 
 ### Loty SP-PAC w Bednarach (EPPB)
 Kliknij w miesiąc poniżej aby przejść do danych.
 
 * Rok 2025
-  * [Kwiecień](./2025/2025-04/)
-  * [Maj](./2025/2025-05/)
+  * [Lipiec](./2025/2025-07/)
   * [Czerwiec](./2025/2025-06/)
+  * [Maj](./2025/2025-05/)
+  * [Kwiecień](./2025/2025-04/)
 * Rok 2024
-  * [Maj](./2024/2024-05/)
-  * [Czerwiec](./2024/2024-06/)
-  * [Lipiec](./2024/2024-07/)
-  * [Sierpień](./2024/2024-08/)
   * [Październik](./2024/2024-10/)
+  * [Sierpień](./2024/2024-08/)
+  * [Lipiec](./2024/2024-07/)
+  * [Czerwiec](./2024/2024-06/)
+  * [Maj](./2024/2024-05/)
 <br>
 <br>
 
@@ -31,6 +29,9 @@ Kliknij w miesiąc poniżej aby przejść do danych.
   * *2024-07-20 (brak możliwości pobrania plików z FR24)*
   * *2024-08-30 (brak możliwości pobrania plików z FR24)*
 * brak lotów we wrześniu 2024 - impreza AgroShow na lotnisku
+
+### Cel
+Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od ponad dwóch lat generuje nadmierny hałas, zakłócając w ten sposób spokój mieszkańców. Gromadzimy tutaj dokumentację tych działań, korzystając z ogólnie dostępnych źródeł.
 
 ### Jak zbieramy dane
 * Dane z przelotów samolotu SP-PAC są na bieżąco pobierane z serwisu [FligthRadar24 SP-PAC](https://www.flightradar24.com/data/aircraft/sp-pac) (dane dostępne za 3 ostatnie miesiące bez opłat) w postaci plików CSV zawierających odczyty z transpondera samolotu - w każdym wierszu znajduje się odczyt: data, koordynaty geograficzne, numer rejestracyjny, wysokość, prędkość i kierunek lotu

@@ -43,25 +43,31 @@ navigation:
   - name: 2025
     link: /2025/
     sublist:
+      - name: Lipiec
+        link: /2025/2025-07/
+      - name: Czerwiec
+        link: /2025/2025-06/
+      - name: Maj
+        link: /2025/2025-05/
       - name: Kwiecień
         link: /2025/2025-04/
       - name: Maj
         link: /2025/2025-05/
-      - name: Czerwiec
-        link: /2025/2025-06/
+
   - name: 2024
     link: /2024/
     sublist:
-      - name: Maj
-        link: /2024/2024-05/
-      - name: Czerwiec
-        link: /2024/2024-06/
-      - name: Lipiec
-        link: /2024/2024-07/
-      - name: Sierpień
-        link: /2024/2024-08/
       - name: Październik
         link: /2024/2024-10/
+      - name: Sierpień
+        link: /2024/2024-08/
+      - name: Lipiec
+        link: /2024/2024-07/
+      - name: Czerwiec
+        link: /2024/2024-06/
+      - name: Maj
+        link: /2024/2024-05/
+
 #  - name: O nas
 #    link: /about/
 
