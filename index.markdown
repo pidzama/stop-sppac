@@ -5,12 +5,13 @@
 layout: default
 ---
 # STOP SP-PAC
-[Najnowsze loty](./2025/2025-07/)
+[Najnowsze loty](./2025/2025-08/)
 
 ### Loty SP-PAC w Bednarach (EPPB)
 Kliknij w miesiąc poniżej aby przejść do danych.
 
 * Rok 2025
+  * [Sierpień](./2025/2025-08/)
   * [Lipiec](./2025/2025-07/)
   * [Czerwiec](./2025/2025-06/)
   * [Maj](./2025/2025-05/)

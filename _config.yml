@@ -43,6 +43,8 @@ navigation:
   - name: 2025
     link: /2025/
     sublist:
+      - name: Sierpień
+        link: /2025/2025-08/
       - name: Lipiec
         link: /2025/2025-07/
       - name: Czerwiec
