@@ -74,6 +74,7 @@ navigation:
 include:
   - 2024
   - 2025
+  - zielonka
 
 # Exclude from processing.
 # The following items will not be processed, by default.
