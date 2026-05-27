@@ -40,6 +40,13 @@ color-scheme: auto
 navigation:
   - name: Wstęp
     link: /
+  - name: 2026
+    link: /2026/
+    sublist:
+      - name: Maj
+        link: /2026/2026-05/
+      - name: Kwiecień
+        link: /2026/2026-04/
   - name: 2025
     link: /2025/
     sublist:
@@ -74,6 +81,7 @@ navigation:
 include:
   - 2024
   - 2025
+  - 2026
   - zielonka
 
 # Exclude from processing.
