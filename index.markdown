@@ -5,12 +5,17 @@
 layout: default
 ---
 # STOP SP-PAC
-[Najnowsze loty](./2025/2025-08/)
+[Najnowsze loty](./2025/2026-05/)
 
 ### Loty SP-PAC w Bednarach (EPPB)
 Kliknij w miesiąc poniżej aby przejść do danych.
 
+* Rok 2026
+  * [Maj](./2026/2026-05/)
+  * [Kwiecień](./2026/2026-04/)
+
 * Rok 2025
+  * [Październik](./2025/2025-10/)
   * [Sierpień](./2025/2025-08/)
   * [Lipiec](./2025/2025-07/)
   * [Czerwiec](./2025/2025-06/)
@@ -25,11 +30,6 @@ Kliknij w miesiąc poniżej aby przejść do danych.
 <br>
 <br>
 
-*Uwagi:*
-* *brak danych dla dni (kiedy samolot latał):*
-  * *2024-07-20 (brak możliwości pobrania plików z FR24)*
-  * *2024-08-30 (brak możliwości pobrania plików z FR24)*
-* brak lotów we wrześniu 2024 - impreza AgroShow na lotnisku
 
 ### Cel
 Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od ponad dwóch lat generuje nadmierny hałas, zakłócając w ten sposób spokój mieszkańców. Gromadzimy tutaj dokumentację tych działań, korzystając z ogólnie dostępnych źródeł.
