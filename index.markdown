@@ -5,12 +5,14 @@
 layout: default
 ---
 # STOP SP-PAC
-[Najnowsze loty](./2025/2026-05/)
+[Najnowsze loty](./2025/2026-06/)
 
 ### Loty SP-PAC w Bednarach (EPPB)
 Kliknij w miesiąc poniżej aby przejść do danych.
 
 * Rok 2026
+  * [Lipiec](./2026/2026-07/)
+  * [Czerwiec](./2026/2026-06/)
   * [Maj](./2026/2026-05/)
   * [Kwiecień](./2026/2026-04/)
 
@@ -35,7 +37,7 @@ Kliknij w miesiąc poniżej aby przejść do danych.
 Strona dokumentuje przeloty samolotu SP–PAC należącego do SkyCamp, który od ponad dwóch lat generuje nadmierny hałas, zakłócając w ten sposób spokój mieszkańców. Gromadzimy tutaj dokumentację tych działań, korzystając z ogólnie dostępnych źródeł.
 
 ### Jak zbieramy dane
-* Dane z przelotów samolotu SP-PAC są na bieżąco pobierane z serwisu [FligthRadar24 SP-PAC](https://www.flightradar24.com/data/aircraft/sp-pac) (dane dostępne za 3 ostatnie miesiące bez opłat) w postaci plików CSV zawierających odczyty z transpondera samolotu - w każdym wierszu znajduje się odczyt: data, koordynaty geograficzne, numer rejestracyjny, wysokość, prędkość i kierunek lotu
+* Dane z przelotów samolotu SP-PAC są na bieżąco pobierane z serwisu [FlightRadar24 SP-PAC](https://www.flightradar24.com/data/aircraft/sp-pac)lub [ADS-B Exchange SP-PAC](https://globe.adsbexchange.com/?icao=48bc02) w postaci plików CSV/KML zawierających odczyty z transpondera samolotu - w każdym wierszu znajduje się odczyt: data, koordynaty geograficzne, numer rejestracyjny, wysokość, prędkość i kierunek lotu
 * Na podstawie zebranych danych generowany jest obraz z przelotami danego dnia, które prezentowane są na mapie.
 * Na zebranych plikach pogrupowanych według dat przeprowadzamy analizę, zliczając przeloty i czasu brutto i netto samolotu w powietrzu.
 * Z tych informacji automatycznie generowane są podstrony dla poszczególnych dni i miesięcy.

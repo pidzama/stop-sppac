@@ -43,6 +43,10 @@ navigation:
   - name: 2026
     link: /2026/
     sublist:
+      - name: Lipiec
+        link: /2026/2026-07/
+      - name: Czerwiec
+        link: /2026/2026-06/
       - name: Maj
         link: /2026/2026-05/
       - name: Kwiecień
